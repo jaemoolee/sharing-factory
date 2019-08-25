@@ -87,6 +87,4 @@ description: 최근 건강기능식품의 붐이 일어나면서 생산하는 �
 
 
 
-바이오에비뉴 공장 소개서 바로 가기
-
-http://bit.ly/bioavenue-oem
+[바이오에비뉴 공장 소개서 바로 가기](http://bit.ly/oem-pr)

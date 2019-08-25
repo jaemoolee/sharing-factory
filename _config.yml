@@ -1,10 +1,11 @@
 # Site settings
-title: "건강기능식품 공유 공장 [Sharing Factory]"
+title: "공유 공장 Sharing Factory"
+tagline: 건강기능식품의 공유 공장
 description: "건강기능식품과 일반 식품 OEM/ODM 생산을 원하는 사람과 제조사의 소통의 장소입니다."
 url: "https://sharingfactory.kr"
 author:
   name: "Better than now"
-  email: "jaemoo111@gmail.com"
+  email: "oem@seconds3.com"
   url: "https://sharingfactory.kr"
 
 # Build settings
