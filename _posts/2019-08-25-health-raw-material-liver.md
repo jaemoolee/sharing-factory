@@ -44,8 +44,36 @@ description: 2030의 가장 큰 고민 피로회복과 숙취해소, 계속되�
 음주로 인한 사망 발생 건 중 1/4나 차지하는 높은 비율을 보내는 것이 바로 간 질환이다.
 대표적인 술로 인한 질병으로는 지방간, 간염, 간경변증 등이 있다.
 
+특히 간은 많이 나빠지지 않는 한 특별한 증상이 나타나질 않아서 더욱 더 기능 유지에 많은 신경을 써야한다.
 
+### 간 기능을 저하시키는 원인
 
-### 간 해독에 좋은 원료
+![간에 안좋은 음식](https://lh3.googleusercontent.com/UiknzaeE61DointJJTW4N6LBsRdceWtheKazaLqtourFrJpwH4QU11j32-GTUlIS0r2UDkEjOixPIkCqZ2idXVg30S-V17RvWRFkxpLyvn0RqVkNhp4kUzu01myw5mMpkfZDCis_As8WfzyIKSr45EnPjK4dVdEgDRDxHKUo7Nsp_CnaJ5IAn3Y4484wr6GDMXd4m8pf_05Dan0hzAPrBsVUHbE9Xs26x0DiI5pWHsotJYdhYAmFnRHbRRMNGeHrYoK8HH88f2ANysRi24QaLTHXcN7C4nSeQBwBKG5D6ceRT3uKdpQJnCFlL1Tk91MSnySbcq3L8lktQvO0p0lDpR4l9HvA0i2Dk9hL4OvlZJb4zErSDYqtuBfoX0eqFaqwkrOkHM_A38Srm1iTGttTk02izHv0ziu520gV4Qll-FG8rN3I6jpvnpMPosNRd8JK9WKTPcUaD9AWynsYtusgjGz-ITZKNrDBCHsiKDoSJQJFwsOitCMttpSvh8NSfi3XUYp8jSComYR_B71s0yQdMnoQRR-AEhPZIU6BLv_26lkBLzEKnFeUXl8uI-Hd_725QEgZOG-9qxFTL0J_t-kFVxxlo9ip7ELAKj_V2beYJjrG6LL2k3UhoPY2yj0ceFgHCP7WrBZaNF24JP5WR4u66gKrWxZ-DT8=w880-h583-no)
 
-![커피-원두](https://lh3.googleusercontent.com/EuT7FTmZOfzFY-zblkHbL31rO7NFjB8YP5DrFZVIrUxGEFyZyJFCXRVUGGm4vwvdYB9SoeMfeq8j1E9vkgLL5ne_uKdj7vQjnKsaIntOwds6GHBSLvXnZwKoGcmMMo1c7RfNdhlNvKqUhmga9qeAqZIFr11WRGgEEn0zhwAtmm3f6lpt7Sg0oe6POAitglcTJQV0Emz4RS6dlBDQ3-IVT_FoNYCs4q6qo2gaIO2uztDhgfocL3o2AdLJd3oqtaxZBBGFc1CSr5R2x6zDgFGTlO6bLbIUQ6SFfJ31F6mhcC-INV6ozVsYHUOC3tRU0sI2bqFZjmCawq8NhvbbjgCKfDpviJfQo3Rqd-xelVv6egYJygro7maXwf1HoSPTXFrvXoAzjYNg16qbUs3hsM3ZdcMQ_-wnGUjr6bOyfYzr5H0KT3Wp9xm0Bj0ayYDZzZB8tRgK5aTOJOblyBgZIsZwhkBbNZo0fYsUsZhfnFfGUk553jwpFJURnzsak5IW8rNdusFrsDeT_ivD7sHgbJWF33WQKT5xxG-6sirSNk_TBKDbHmYn6y5PYLmyYZ21d_JlKf5f3SG6s6C-xwuOMrAD-ymvFzLOPkmlWvqCQTc1EPToaTHf-NjvcBn4ihKWVzoAMWZLqkXoijAibgyGuKa_6eiRz51SONs=w800-h500-no)
+1. 술
+
+   막걸리 360ml, 소주 2잔, 맥주 600cc, 포도주 2잔(240cc), 양주 2잔 이상은 위험
+
+2. 오염되거나 비위생적 음식
+
+   오래된 쌀, 보리, 수수 등의 곡류 및 곰팡이 핀 음식
+
+3. 간염 바이러스
+
+4. 약물, 영양불량, 대사이상, 비만
+
+---
+
+위와 같은 안좋은 습관 및 음식들로 인해 간의 기능은 현저하게 저하된다.
+
+이제는 간을 건강하게 만드는 방법에 대해서 알아보자.
+
+### 간 해독에 좋은 것들
+
+![커피-원두](https://lh3.googleusercontent.com/JvDD9kkd_kqBXaGFCMx9QzPoHv6NOs85BgYKRKR3aC1ovkE42TaOP7Zjlq4Zbos6fRAlZvg-RGjcLsbYiQm5sxxk-Cl0zvwM6XbK5FM6ZqfnwGKMhvbUdR0g9yGasv7EHPY4-z2rX28Q4buyRjwIafiZqysDfrpvyE6H8FN0AqY-hEomPgKflJTSS4uWntmQvuLDzNmJ1faqcbfjm6iLG74a4oui_wyjFgUS8nVbZif3n_PSGUjODshX9sWcBwMuwawnhMBKrNd-CsduqG_mETml7kabq_LCUD_xIHT1IeSti8nzppiXRYLFxApTPBxHMj9GX4gWwYfq1fWKxPdq9nI-d61-1F8ckLkkiOQ0l7O8D9kuk5lqQhhKbmel8-C-ZqXH49m-G2MROqLfwkjmsVR-wIpVyQvUWQ37A1xsRKex6mVUYRSgw4fbDsRZZ_lKBBX_gXHdjQwYFNI0ZNmgLIgJ5yBcU5s7EXKmfiTmvDUSuprQNgzk9cVQSaYKR6hEWR2RrZlpQIwY48xgcEBIJ5Qz4Oc9M4mNYsaI0fgD6bR11G6b2KqZWGfysCpW-YFhb5_vFY8U4UP2lBilkPTt6GPdSVM6_HOE65dSXhHjqbmRl6y-3Rirw58aHPDtRHxAoH-pKuvKhaywmy9Do-bR76WX3PgrGrs=w800-h500-no)
+
+간의 기능에 도움을 주는 요소는 양질의 단백질 공급이 있다.
+
+단백질은 간 세포의 재생을 돕는다. 그래서 콩, 두부, 사차인치 등의 식물성 단백질을 섭취하거나 기름 부위를 제거한 살코기, 달걀, 우유, 생선 등을 먹는다.
+
+또 현미, 잡곡, 통밀, 율무, 판, 수수, 보리 등의 곡류도 간 건강에 좋고 자몽, 아보카도, 토마토, 녹차, 녹색 채소 등으로도 간을 보호할 수 있다.
