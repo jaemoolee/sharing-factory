@@ -1,21 +1,18 @@
 ---
 layout: page
-title: About Emerald
+title: 공유공장이란?
 ---
-## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+### 공유공장이란?
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+---
 
-![Emerald](img/Emerald01.png "Emerald")
+현재 건강기능식품의 시장은 정말 빠른 속도로 발전하고 있다.
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+이에 맞춰서 개인들도 건강기능식품 제조에 관심을 가지게 됐는데, 생산에 있어서 많은 에러 사항들이 있다.
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
+1. 건강기능식품에 대한 정보의 미비
+2. 정보 미비로 인한 제품 기획력 부족
+3. 최소 제조 수량(MOQ)의 진입 장벽
+4. MOQ로 인한 많은 제조 비용
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
-
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
+이러한 것들을 돕기 위해 공장을 공유한다 라는 느낌으로 같이 성장할 수 있는 회사를 찾고 있는 바이오에비뉴/세컨즈쓰리 에서 공유 공장에 대한 글을 기고한다.
