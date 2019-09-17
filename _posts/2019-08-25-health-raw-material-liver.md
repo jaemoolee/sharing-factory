@@ -99,8 +99,77 @@ description: 2030의 가장 큰 고민 피로회복과 숙취해소, 계속되�
 
 ![간과 소주](https://lh3.googleusercontent.com/Chjd0j16KDJuSYQ1ZtWyU-wJDireUS2WyC22msaIEkXN2up0sg0-B79FHR3LSWCDKzJe1g401mleTHwPn-wn9VFWRvG2O0wxjmwKVBGR0Z-2mnfPg8I7fyiCbtXLeI1D9i3MXDFabjF49x8lB4_-TLS98-jtljRiy3VOlMLND4wy_qehQVe6JMsfV7LhnQEqOBVcG6ATQ4g9ostJCerEfTm0bjyZz7hcAsrck0vAoczmgI9WJmEUTcJQrTf_ZWzjEQd2QXMLvjxHYItw0IFD1lAJzqVAVrfpWyBc1j9HVrG4F1CdHKohgNUoZEdrzahIAzzUuazXo0MV50nvp8x0JFdRp0H1KkzpULYLL-UljcEanJvsPETxZhR0B3XhsZgKRLk-36aXv3yPkwXbaoK_l1tnPRvCxbmZD5j-3AUAuLg6MISj6uiuO6m0pF1aeiwWMuLzmxBpGAon32UN3tGgIUmQolfsEMmY-tI9ueS0FcuJIvsC5prohjitPEZIDjESbJ13YGMxila7nhGWBr_QAP3ExkGVGUwmagcVK15zrS2kBqC3D49h9Y5sfaMtO0w4-NhQVnHHHRQERNR4EL6d2Uj3DbBYWFeXe6fAovqCsnOz_51T_YEtHYbq5jeMUOdhdxzH0kON0luqC-glDxrC3RWpY3cqopdaiwBSMeIlp20IpYlleTmbv5E=w960-h639-no)
 
-대표적으로 간 건강이라고 하면 숙취해소제로 유명한 헛개,
+대표적으로 간 건강이라고 하면 숙취해소제로 유명한 헛개, 칡 뿌리 (갈근)
 
 그리고 피로회복 및 간 건강으로 유명한 밀크씨슬이 있다.
 
+![헛개나무 사진](http://mblogthumb3.phinf.naver.net/MjAxNzAzMjRfMTIw/MDAxNDkwMzEzMTM4NzM1.q4jMABVUPWy_fQ5NXSj6yl2-6Pgi-E-TpZ-t5D5dq34g.7oVFtR0d0Q2Lm0cKkh6x598PvMtaWY-4hoQA8boPJY8g.JPEG.mihwa5860/%ED%97%9B%EA%B0%9C%EB%82%98%EB%AC%B4%EC%97%B4%EB%A7%A4%EA%B0%80%EA%B2%A9_3.jpg?type=w800)
+
 먼저 헛개나무는 세종대왕 때 편찬된 '의방유취'에는 "집 밖에 헛개나무가 있으면 술을 빚어도 술이 익지 않고, 헛개나무 밑에서 술을 담그면 술이 물처럼 되어버린다"라고 기록되어 있다.
+
+이런 헛개나무는 우리에게 알려진 숙취해소 외에도 여러가지 효능이 있다.
+
+1. 지방간, 간염, 강경화에 효능
+2. 황달 개선 효과
+3. 변비 개선 효과
+4. 피로 회복 효과
+5. 관절염 개선 효과
+6. 이뇨작용
+
+등이 있다. 하지만 이러한 헛개나무도 `녹차`와 배합은 상성이 좋지가 않고, 너무 진하게 달여서 섭취 시에는 위에 부담이 갈 수 있다. 
+또한 아주 소량이지만 헛개나무는 자체의 독성을 지니고 있어서 말리지 않고 섭취를 하게 되면 복통이나 설사를 유발할 수 있다.
+
+![칡꽃 갈화 사진](https://www.ibric.org/upload/board/files/ulleung/ull_9/thumb2/0001309_1.jpg)
+
+다음으로는 칡이다.
+
+해당 사진은 갈화로 알려진 칡의 꽃의 사진이다.
+숙취해소에 대표적으로 알려진 갈근(칡 뿌리)는 예부터 한방의 약재로 사용이 됐고 대표적으로는 갈증해소, 심혈관 관련 질환 및 숙취해소제로 사용이 됐다.
+
+이런 칡도 다양한 효과가 있다.
+
+1. 해열작용
+2. 미세순환 개선 및 혈액순환 개선
+3. 피로회복
+4. 골격 건강 및 콜레스테롤 저하
+5. 갱년기 여성의 가슴 답답함 해소
+6. 콜라겐 분해 억제
+7. 콜라겐과 엘라스틴 합성을 촉진
+8. 이뇨작용
+
+
+
+이 중 특이한 성분은 칡에 포함된 `퓨에라린`이라는 성분 덕분에 혈액 순환이 촉진이 되고 갈화(칡꽃)에 함유된 로비닌, 이소플라본의 성분은 알콜 분해를 촉진하고 또 `다이드제인`이라는 성분이 여성 호르몬인 에스트로겐과 비슷한 역할을 해준다는 실험 결과가 있다.
+또 이뇨작용을 도와 다이어트에도 도움을 줄 수 있다.
+
+하지만 칡은 약간의 찬 성질을 가지고 있는 약재이므로 손 발이 차거나, 속이 찬 사람은 섭취에 주의를 해야한다. 또한 피가 응고되는 것을 저해할 수 있고 자궁 수축의 효과가 있어 임산부는 복용을 금해야한다.
+
+![밀크시슬 사진](https://cdn.pixabay.com/photo/2017/06/08/15/03/milk-thistle-2383849_960_720.jpg)
+
+마지막으로 밀크시슬이다.
+
+밀크시슬은 한국에서 최근에 유행하는 아티초크, 흰무늬 엉겅퀴라고 불린다.
+이 흰무늬 엉겅퀴를 빻으면 우유 같은 수액이 나오는데 거기서 밀크시슬 이라는 이름이 유래됐다.
+
+밀크시슬은 항산화 성분인 실리마린이 들어서 간을 독성으로부터 보호하고 간의 재생 능력을 향상시키는 효능이 있다.
+
+밀크시슬은 아래와 같은 효능들이 대표적이다.
+
+1. 숙취해소 및 간질환
+2. 바이러스성 간염에 효과
+3. 해독 작용
+4. 항암 효과(분열 및 번식을 줄이고 암 세포의 수명을 저하시킴)
+5. 당뇨에 효과(실리마린이 총 콜레스테롤, LDL 콜레스테롤, 트리글리세라이드 수치 감소)
+6. 피부 건강에 도움(항산화 성분의 활성 산소로 인한 손상 예방)
+
+등이 있다. 하지만 아래와 같은 부작용이 있을 수 있으므로 섭취 시 주의해야한다.
+
+- 설사
+- 임신한 여성이나 모유 수유 중 여성은 섭취 금지
+- 유방암, 자궁암, 전립선암 등 호르몬 관련 암 병력이 있어도 금지
+
+
+
+이렇게 간의 역할 부터 간 기능 유지를 위한 것들에 대한 정보들까지 알아봤다.
+
+다음에는 간 기능 유지에 도움을 주는 원료 중 갈화, 갈근 제품에 대해서 다루려고 한다.
