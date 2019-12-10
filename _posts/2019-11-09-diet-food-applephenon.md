@@ -3,7 +3,7 @@ layout: post
 title: 다이어트 식품 원료 - 가르시니아, 애플페논, 카테킨, 와일드 망고 종자 추출물
 date: 2019-11-09 14:30:00 +09:00
 author: "Jaemoo lee"
-permalink: /diet-food-applephenon/
+permalink: /post-diet-food-applephenon/
 image:
   feature: applephenon.png
 categories:

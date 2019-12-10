@@ -3,7 +3,7 @@ layout: post
 title: 건강기능식품, 공장을 공유하다.
 date: 2019-06-30 09:00
 author: "jmLee"
-permalink: /health-functional-foods-sharing-factory/
+permalink: /post-health-functional-foods-sharing-factory/
 image:
   feature: health-functional-foods-sharing-factory-thumbnail.png
 categories:

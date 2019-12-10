@@ -3,7 +3,7 @@ layout: post
 title: 간 건강을 도와줄 수 있는 건강기능식품
 date: 2019-08-25 15:30 +09:00
 author: "jmLee"
-permalink: /health-raw-material-liver/
+permalink: /post-health-raw-material-liver/
 image:
   feature: health-raw-material-liver.png
 categories:

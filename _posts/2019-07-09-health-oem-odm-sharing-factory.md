@@ -3,7 +3,7 @@ layout: post
 title: 건강기능식품 제조 전문 바이오에비뉴
 date: 2019-07-09 14:30:00 +09:00
 author: "jmLee"
-permalink: /bio-avenue-oem/
+permalink: /post-bio-avenue-oem/
 image:
   feature: bio-avenue-oem-thumbnail.png
 categories:
