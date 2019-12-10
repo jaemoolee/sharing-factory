@@ -1,1 +1,7 @@
 <script src="{{ "/js/main.js" | prepend: site.baseurl | replace: '//', '/' }}"></script>
+<script>
+  dataLayer.push({
+    'content_id': "{{ page.content_id }}",
+    'content_title': "{{ page.title }}",
+  });"
+</script>
