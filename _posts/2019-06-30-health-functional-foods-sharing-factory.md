@@ -16,7 +16,7 @@ tags:
   - 건강기능식품odm
   - 건기식
 description: 최근 트렌드인 공유(sharing)경제, 이제는 공장도 공유하는 시대가 됐다. 건강기능식품 OEM/ODM을 찾는 소비자와 공장을 연결해주는 플랫폼에 대한 생각을 공유한다.
-content_id : "post-content"
+content_id : "post-1"
 ---
 
 ### 공유 경제
