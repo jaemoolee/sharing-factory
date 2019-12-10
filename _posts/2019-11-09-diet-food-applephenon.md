@@ -3,7 +3,7 @@ layout: post
 title: 다이어트 식품 원료 - 가르시니아, 애플페논, 카테킨, 와일드 망고 종자 추출물
 date: 2019-11-09 14:30:00 +09:00
 author: "Jaemoo lee"
-permalink: post/diet-food-applephenon/
+permalink: /diet-food-applephenon/
 image:
   feature: applephenon.png
 categories:
@@ -17,6 +17,7 @@ tags:
   - 와일드 망고
   - 다이어트
 description: 정말 많은 다이어트 원료, 우리가 먹는 다이어트 식품은 어떤 효능과 부작용이 있는지 살핀다. 우리가 먹는 다이어트 식품, 과연 안전할까?
+content_id : "post-content"
 ---
 
  최근 식품의약품안전처에서 다이어트 식품 원료 중 하나인 가르시니아 캄보지아 추출물 체중 감소 기능 인정 수위 를 낮췄다. 
